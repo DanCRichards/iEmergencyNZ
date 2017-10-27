@@ -1,0 +1,11 @@
+C:/Users/Daniel Richards/documents/visual studio 2017/Projects/iEmergencySolution/BusinessObjects/bin/Debug/BusinessObjects.dll
+C:/Users/Daniel Richards/documents/visual studio 2017/Projects/iEmergencySolution/BusinessObjects/bin/Debug/BusinessObjects.pdb
+C:/Users/Daniel Richards/documents/visual studio 2017/Projects/iEmergencySolution/BusinessObjects/obj/Debug/BusinessObjects.csprojResolveAssemblyReference.cache
+C:/Users/Daniel Richards/documents/visual studio 2017/Projects/iEmergencySolution/BusinessObjects/obj/Debug/BusinessObjects.dll
+C:/Users/Daniel Richards/documents/visual studio 2017/Projects/iEmergencySolution/BusinessObjects/obj/Debug/BusinessObjects.pdb
+/Users/109/Downloads/iEmergencySolution/BusinessObjects/bin/Debug/BusinessObjects.dll
+/Users/109/Downloads/iEmergencySolution/BusinessObjects/bin/Debug/BusinessObjects.pdb
+/Users/109/Downloads/iEmergencySolution/BusinessObjects/obj/Debug/BusinessObjects.csprojResolveAssemblyReference.cache
+/Users/109/Downloads/iEmergencySolution/BusinessObjects/obj/Debug/BusinessObjects.csproj.CoreCompileInputs.cache
+/Users/109/Downloads/iEmergencySolution/BusinessObjects/obj/Debug/BusinessObjects.dll
+/Users/109/Downloads/iEmergencySolution/BusinessObjects/obj/Debug/BusinessObjects.pdb

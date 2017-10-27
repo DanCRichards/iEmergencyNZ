@@ -1,0 +1,19 @@
+C:/Users/Daniel Richards/documents/visual studio 2017/Projects/iEmergencySolution/BusinessLogicLayer/obj/Debug/BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:/Users/Daniel Richards/documents/visual studio 2017/Projects/iEmergencySolution/BusinessLogicLayer/bin/Debug/BusinessLogicLayer.dll
+C:/Users/Daniel Richards/documents/visual studio 2017/Projects/iEmergencySolution/BusinessLogicLayer/bin/Debug/BusinessLogicLayer.pdb
+C:/Users/Daniel Richards/documents/visual studio 2017/Projects/iEmergencySolution/BusinessLogicLayer/bin/Debug/BusinessObjects.dll
+C:/Users/Daniel Richards/documents/visual studio 2017/Projects/iEmergencySolution/BusinessLogicLayer/bin/Debug/DataAccessLayer.dll
+C:/Users/Daniel Richards/documents/visual studio 2017/Projects/iEmergencySolution/BusinessLogicLayer/bin/Debug/BusinessObjects.pdb
+C:/Users/Daniel Richards/documents/visual studio 2017/Projects/iEmergencySolution/BusinessLogicLayer/bin/Debug/DataAccessLayer.pdb
+C:/Users/Daniel Richards/documents/visual studio 2017/Projects/iEmergencySolution/BusinessLogicLayer/obj/Debug/BusinessLogicLayer.dll
+C:/Users/Daniel Richards/documents/visual studio 2017/Projects/iEmergencySolution/BusinessLogicLayer/obj/Debug/BusinessLogicLayer.pdb
+/Users/109/Downloads/iEmergencySolution/BusinessLogicLayer/bin/Debug/BusinessLogicLayer.dll
+/Users/109/Downloads/iEmergencySolution/BusinessLogicLayer/bin/Debug/BusinessLogicLayer.pdb
+/Users/109/Downloads/iEmergencySolution/BusinessLogicLayer/bin/Debug/BusinessObjects.dll
+/Users/109/Downloads/iEmergencySolution/BusinessLogicLayer/bin/Debug/DataAccessLayer.dll
+/Users/109/Downloads/iEmergencySolution/BusinessLogicLayer/bin/Debug/BusinessObjects.pdb
+/Users/109/Downloads/iEmergencySolution/BusinessLogicLayer/bin/Debug/DataAccessLayer.pdb
+/Users/109/Downloads/iEmergencySolution/BusinessLogicLayer/obj/Debug/BusinessLogicLayer.csprojResolveAssemblyReference.cache
+/Users/109/Downloads/iEmergencySolution/BusinessLogicLayer/obj/Debug/BusinessLogicLayer.csproj.CoreCompileInputs.cache
+/Users/109/Downloads/iEmergencySolution/BusinessLogicLayer/obj/Debug/BusinessLogicLayer.dll
+/Users/109/Downloads/iEmergencySolution/BusinessLogicLayer/obj/Debug/BusinessLogicLayer.pdb
