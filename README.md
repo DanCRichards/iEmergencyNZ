@@ -3,7 +3,7 @@ WARNING: This is simply a simulation and doesn't actually communicate with Emerg
 
 
 
-####Motivating factors to create project
+#### Motivating factors to create project
 ----------
 iEmergencyNZ started as a University Project for the course Information Systems 280. 
 The course required that an Information System was to be built using ASP.NET which should attempt to solve one of the   [UN Sustainable Development Goals](http://www.un.org/sustainabledevelopment/sustainable-development-goals/). 
