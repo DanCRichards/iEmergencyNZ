@@ -2,6 +2,8 @@
 iEmergencyNZ is a system which allows for hearing impaired people to communicate with emergency services in New Zealand without having to dial 111. 
 WARNING: This is simply a simulation and doesn't actually communicate with Emergency Services in New Zealand. 
 
+For this course I recieved first place within my semester. 
+
 
 
 #### Motivating factors to create project
